@@ -44,4 +44,5 @@ feature liga {
     sub period period by period_period;                          # ..
     sub plus plus by plus_plus;                                  # ++
     sub slash equal by slash_equal;                              # /=
+    sub slash slash by slash_slash;                              # //
 } liga;
