@@ -1,6 +1,6 @@
 #!/bin/sh
 
-family=Hasklig
+family=Blackfont
 romanWeights='Black Bold ExtraLight Light Medium Regular Semibold'
 italicWeights='BlackIt BoldIt ExtraLightIt LightIt MediumIt It SemiboldIt'
 
