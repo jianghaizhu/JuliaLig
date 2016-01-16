@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam_equals" format="1">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="364" y="-50" type="line"/>
+      <point x="506" y="-50" type="line"/>
+      <point x="593" y="150" type="line"/>
+      <point x="1136" y="150" type="line"/>
+      <point x="1136" y="270" type="line"/>
+      <point x="645" y="270" type="line"/>
+      <point x="697" y="390" type="line"/>
+      <point x="1136" y="390" type="line"/>
+      <point x="1136" y="510" type="line"/>
+      <point x="749" y="510" type="line"/>
+      <point x="836" y="710" type="line"/>
+      <point x="694" y="710" type="line"/>
+      <point x="607" y="510" type="line"/>
+      <point x="64" y="510" type="line"/>
+      <point x="64" y="390" type="line"/>
+      <point x="555" y="390" type="line"/>
+      <point x="503" y="270" type="line"/>
+      <point x="64" y="270" type="line"/>
+      <point x="64" y="150" type="line"/>
+      <point x="451" y="150" type="line"/>
+    </contour>
+  </outline>
+</glyph>

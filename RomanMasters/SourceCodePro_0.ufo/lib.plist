@@ -1622,6 +1622,7 @@
 		<string>bar_greater</string>
 		<string>less_exclam_greater</string>
 		<string>slash_slash</string>
+		<string>exclam_equals</string>
 	</array>
 </dict>
 </plist>

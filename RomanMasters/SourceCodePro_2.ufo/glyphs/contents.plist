@@ -3174,7 +3174,9 @@
   <string>bar_greater.glif</string>
   <key>less_exclam_greater</key>
   <string>less_exclam_greater.glif</string>
-	<key>slash_slash</key>
+  <key>slash_slash</key>
   <string>slash_slash.glif</string>
+  <key>exclam_equals</key>
+  <string>exclam_equals.glif</string>
 </dict>
 </plist>
