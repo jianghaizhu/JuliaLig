@@ -11,3 +11,11 @@
 *.ttf
 
 font.ufo/
+/.idea/blackfont.iml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/ItalicMasters/SourceCodePro-It.designspace.temp
+/RomanMasters/SourceCodePro.designspace.temp

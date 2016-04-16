@@ -44,7 +44,7 @@ def addremove_glyph(font_dir, glyph, add=True):
     if add and not found or remove and found:
         if add:
             add_element(dict_element, 'key', glyph)
-            add_element(dict_element, 'string', glyph + '.glyph')
+            add_element(dict_element, 'string', glyph + '.glif')
             add_indentation(dict_element)
         if TESTING:
             file = io.BytesIO()

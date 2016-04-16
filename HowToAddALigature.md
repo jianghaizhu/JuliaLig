@@ -41,11 +41,11 @@ You need to have python2-fonttools module installed, as well as Adobe Font Devel
 
 If your default python system is Python 3, you might get various "Syntax Error" messages. Then remember to create a Python 2 virtual environment:
 ```
-virtualenv -p /usr/bin/python2.7 --system-site-packages ---setuptools --no-pip --no-wheel /tmp/temp-python2
+virtualenv -p /usr/bin/python2.7 --system-site-packages --no-setuptools --no-pip --no-wheel /tmp/temp-python2
 ```
 Then to rebuild the font:
 ```
-source /tmp/temp-python2
+source /tmp/temp-python2/bin/activate
 ./buildInstances.sh
 ./build.sh
 deactivate

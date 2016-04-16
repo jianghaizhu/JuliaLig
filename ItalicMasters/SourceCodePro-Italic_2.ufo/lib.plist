@@ -1340,8 +1340,8 @@
 		<string>less_exclam_greater</string>
 		<string>slash_slash</string>
 		<string>exclam_equals</string>
-		<string>double_left_parens</string>
-		<string>double_right_parens</string>
+        <string>double_left_parens</string>
+        <string>double_right_parens</string>
         <string>bottom</string></array>
         </dict>
 </plist>
