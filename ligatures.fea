@@ -1,6 +1,8 @@
 
 #------------------------------
 
+# I have omitted several fonts from the HaskLig font for various reasons:
+#
 # I think these are confusing
 #    sub equal equal equal by equal_equal_equal;                  # ===
 #    sub equal equal greater by equal_equal_greater;              # ==>
@@ -31,7 +33,7 @@ feature liga {
 
     sub period period period by period_period_period;            # ...
 
-    # new3char
+    # new 2 char ligatures above this comment line
 
     # 2-character ligs
 
@@ -49,10 +51,7 @@ feature liga {
     sub hyphen less by hyphen_less;                              # -<
     sub equal greater by equal_greater;                          # =>
 
-    sub backslash parenleft by double_left_parens;                   # \(
-    sub backslash parenright by double_right_parens;                 # \)
 
-   
     sub ampersand ampersand by ampersand_ampersand;              # &&
     sub bar bar by bar_bar;                                      # ||
     sub backslash backslash by backslash_backslash;              # \\
@@ -70,18 +69,18 @@ feature liga {
     sub less asterisk by less_asterisk;                          # <*
     sub asterisk greater by asterisk_greater;                    # *>
 
-#    sub underscore bar underscore by bottom;
+    sub underscore bar underscore by bottom;                     # _|_
 
 
     sub colon colon by colon_colon;                              # b::a
 
-
-
     sub greater equal by greaterequal;                          # >=
     sub less equal by lessequal;                                # <=
 
+    sub backslash parenleft by double_left_parens;                   # \(
+    sub backslash parenright by double_right_parens;                 # \)
 
-    # new2char
+    # new 2 char ligatures above this comment line
 
 
 } liga;
