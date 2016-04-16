@@ -31,6 +31,7 @@ feature liga {
 
     sub period period period by period_period_period;            # ...
 
+    # new3char
 
     # 2-character ligs
 
@@ -48,8 +49,10 @@ feature liga {
     sub hyphen less by hyphen_less;                              # -<
     sub equal greater by equal_greater;                          # =>
 
+    sub backslash parenleft by double_left_parens;                   # \(
+    sub backslash parenright by double_right_parens;                 # \)
 
-
+   
     sub ampersand ampersand by ampersand_ampersand;              # &&
     sub bar bar by bar_bar;                                      # ||
     sub backslash backslash by backslash_backslash;              # \\
@@ -67,6 +70,8 @@ feature liga {
     sub less asterisk by less_asterisk;                          # <*
     sub asterisk greater by asterisk_greater;                    # *>
 
+#    sub underscore bar underscore by bottom;
+
 
     sub colon colon by colon_colon;                              # b::a
 
@@ -76,6 +81,7 @@ feature liga {
     sub less equal by lessequal;                                # <=
 
 
+    # new2char
 
 
 } liga;

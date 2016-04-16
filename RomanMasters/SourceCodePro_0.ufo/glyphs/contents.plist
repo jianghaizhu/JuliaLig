@@ -3178,5 +3178,11 @@
 	<string>slash_slash.glif</string>
 	<key>exclam_equals</key>
 	<string>exclam_equals.glif</string>
-</dict>
+    <key>double_left_parens</key>
+    <string>double_left_parens.glyph</string>
+    <key>double_right_parens</key>
+    <string>double_right_parens.glyph</string>
+    <key>bottom</key>
+    <string>bottom.glyph</string>
+    </dict>
 </plist>
