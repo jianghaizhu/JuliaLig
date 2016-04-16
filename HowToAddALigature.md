@@ -37,7 +37,26 @@ Then rebuild the font and voilá.
 How to rebuild the font
 ===============================
 
-You need to have python2-fonttools module installed, as well as Adobe Font Development Kit for OpenType.
+You need to have Python 2.7+, with the fonttools module installed, as well as Adobe Font Development Kit for OpenType.
+
+The command
+```
+./buildInstances.sh
+```
+
+Will take the thin and fat fonts, and interpolate them to get the various thicknesses.
+
+The command
+```
+./build.sh
+```
+Will add the ligature table.
+
+After both commands are run, the fonts are in the `target` folder.
+
+
+If you have Python 3
+===========================
 
 If your default python system is Python 3, you might get various "Syntax Error" messages. Then remember to create a Python 2 virtual environment:
 ```
