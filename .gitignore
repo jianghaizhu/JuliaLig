@@ -6,10 +6,6 @@
 
 *.txt
 
-*.otf
-
-*.ttf
-
 font.ufo/
 /.idea/blackfont.iml
 /.idea/encodings.xml
