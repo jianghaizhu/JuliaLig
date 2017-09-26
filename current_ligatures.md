@@ -10,7 +10,7 @@ Current ligatures in the font
     <+> ...
 
      <= >=
-    == !=
+    == != !== ===
   <- -> =>
     -< >-
 

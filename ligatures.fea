@@ -43,6 +43,8 @@ feature liga {
     # sub colon equal by colon_equal;                              # :=
     sub equal equal by equal_equal;                              # ==
     sub exclam equal by exclam_equals;                            # !=
+    sub exclam equal equal by not_equal_equal;					# !==
+    sub equal equal equal by triple_equal;						# ===
     # sub tilde equal by tilde_equal;                            # ~=
 
     sub hyphen greater by hyphen_greater;                        # ->

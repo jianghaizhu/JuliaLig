@@ -6,9 +6,7 @@
 
 *.txt
 
-*.otf
-
-*.ttf
+*.DS_Store
 
 font.ufo/
 /.idea/blackfont.iml
