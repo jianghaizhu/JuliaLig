@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="not_equal_equal" format="1">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="84" y="604" type="line"/>
+      <point x="624" y="604" type="line"/>
+      <point x="686" y="756" type="line"/>
+      <point x="813" y="756" type="line"/>
+      <point x="752.535" y="604" type="line"/>
+      <point x="1088" y="604" type="line"/>
+      <point x="1088" y="484" type="line"/>
+      <point x="713" y="484" type="line"/>
+      <point x="675" y="386" type="line"/>
+      <point x="1088" y="386" type="line"/>
+      <point x="1088" y="268" type="line"/>
+      <point x="634" y="268" type="line"/>
+      <point x="599" y="184" type="line"/>
+      <point x="1088" y="184" type="line"/>
+      <point x="1088" y="67" type="line"/>
+      <point x="561" y="67" type="line"/>
+      <point x="525" y="-22" type="line"/>
+      <point x="386" y="-22" type="line"/>
+      <point x="425" y="67" type="line"/>
+      <point x="84" y="67" type="line"/>
+      <point x="84" y="184" type="line"/>
+      <point x="464" y="184" type="line"/>
+      <point x="500" y="268" type="line"/>
+      <point x="84" y="268" type="line"/>
+      <point x="84" y="386" type="line"/>
+      <point x="539" y="386" type="line"/>
+      <point x="581" y="484" type="line"/>
+      <point x="84" y="484" type="line"/>
+    </contour>
+  </outline>
+</glyph>

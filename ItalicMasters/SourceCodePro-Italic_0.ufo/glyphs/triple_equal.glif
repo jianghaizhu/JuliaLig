@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triple_equal" format="1">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="98" y="576" type="line"/>
+      <point x="98" y="604" type="line"/>
+      <point x="1102" y="604" type="line"/>
+      <point x="1102" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="354" type="line"/>
+      <point x="98" y="382" type="line"/>
+      <point x="1102" y="382" type="line"/>
+      <point x="1102" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="154" type="line"/>
+      <point x="98" y="182" type="line"/>
+      <point x="1102" y="182" type="line"/>
+      <point x="1102" y="154" type="line"/>
+    </contour>
+  </outline>
+</glyph>
