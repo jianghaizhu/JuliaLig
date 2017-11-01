@@ -39,7 +39,7 @@ Then rebuild the font and voilá.
 How to rebuild the font
 ===============================
 
-You need to have Python 2.7+, with the fonttools module installed, as well as Adobe Font Development Kit for OpenType.
+You need to have Python 2.7+, with the [fonttools](https://github.com/fonttools/fonttools) module installed, as well as [Adobe Font Development Kit](https://github.com/adobe-type-tools/afdko) for OpenType.
 
 The command
 ```
