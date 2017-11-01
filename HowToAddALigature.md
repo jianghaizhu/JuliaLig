@@ -5,7 +5,7 @@ Here is how we added the double-slash ligature.
 First you need to build the font on your machine
 
 Then we need to create four glyphs for the ligature character: two for *italic* and two for *roman*; in each case one glyph will be thicker than the other. Here was my process:
- 1. Open the font `JuliaLig/targe/JuliaLig-Regular.otf` in [FontForge](https://fontforge.github.io/en-US/).
+ 1. Open the font `JuliaLig/target/JuliaLig-Regular.otf` in [FontForge](https://fontforge.github.io/en-US/).
  2. Create a new font.
  3. Copy the slash to the new font.
  4. Edit the glyph, in this case create a copy of the slash and move them around. Possibly edit the glyph's width.
