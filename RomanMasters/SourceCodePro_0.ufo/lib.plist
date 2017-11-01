@@ -1625,6 +1625,8 @@
 		<string>exclam_equals</string>
         <string>double_left_parens</string>
         <string>double_right_parens</string>
-        <string>bottom</string></array>
+        <string>bottom</string>
+        <string>not_equal_equal</string>
+        <string>triple_equal</string></array>
         </dict>
 </plist>

@@ -2618,5 +2618,9 @@
     <string>double_right_parens.glif</string>
     <key>bottom</key>
     <string>bottom.glif</string>
+    <key>not_equal_equal</key>
+    <string>not_equal_equal.glif</string>
+    <key>triple_equal</key>
+    <string>triple_equal.glif</string>
     </dict>
 </plist>
