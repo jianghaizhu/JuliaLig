@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set FAMILY=Blackfont
+set FAMILY=JuliaLig
 set ROMAN_WEIGHTS=Black Bold ExtraLight Light Medium Regular Semibold
 set ITALIC_WEIGHTS=BlackIt BoldIt ExtraLightIt LightIt MediumIt It SemiboldIt
 

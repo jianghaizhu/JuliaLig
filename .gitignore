@@ -9,7 +9,7 @@
 *.DS_Store
 
 font.ufo/
-/.idea/blackfont.iml
+/.idea/JuliaLig.iml
 /.idea/encodings.xml
 /.idea/misc.xml
 /.idea/modules.xml

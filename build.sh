@@ -1,6 +1,6 @@
 #!/bin/sh
 
-family=Blackfont
+family=JuliaLig
 romanWeights='Black Bold ExtraLight Light Medium Regular Semibold'
 italicWeights='BlackIt BoldIt ExtraLightIt LightIt MediumIt It SemiboldIt'
 

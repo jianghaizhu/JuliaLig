@@ -33,49 +33,49 @@
         </source>
     </sources>
     <instances>
-		<instance familyname="Blackfont" filename="../Roman/ExtraLight/font.ufo" postscriptfontname="Blackfont-ExtraLight" stylename="ExtraLight">
+		<instance familyname="JuliaLig" filename="../Roman/ExtraLight/font.ufo" postscriptfontname="JuliaLig-ExtraLight" stylename="ExtraLight">
             <location>
                 <dimension name="weight" xvalue="0.000000" />
             </location>
             <kerning />
             <info />
         </instance>
-		<instance familyname="Blackfont" filename="../Roman/Light/font.ufo" postscriptfontname="Blackfont-Light" stylename="Light">
+		<instance familyname="JuliaLig" filename="../Roman/Light/font.ufo" postscriptfontname="JuliaLig-Light" stylename="Light">
             <location>
                 <dimension name="weight" xvalue="100.000000" />
             </location>
             <kerning />
             <info />
         </instance>
-		<instance familyname="Blackfont" filename="../Roman/Regular/font.ufo" postscriptfontname="Blackfont-Regular" stylename="Regular">
+		<instance familyname="JuliaLig" filename="../Roman/Regular/font.ufo" postscriptfontname="JuliaLig-Regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="368.000000" />
             </location>
             <kerning />
             <info />
         </instance>
-		<instance familyname="Blackfont" filename="../Roman/Medium/font.ufo" postscriptfontname="Blackfont-Medium" stylename="Medium">
+		<instance familyname="JuliaLig" filename="../Roman/Medium/font.ufo" postscriptfontname="JuliaLig-Medium" stylename="Medium">
             <location>
                 <dimension name="weight" xvalue="486.000000" />
             </location>
             <kerning />
             <info />
         </instance>
-		<instance familyname="Blackfont" filename="../Roman/Semibold/font.ufo" postscriptfontname="Blackfont-Semibold" stylename="Semibold">
+		<instance familyname="JuliaLig" filename="../Roman/Semibold/font.ufo" postscriptfontname="JuliaLig-Semibold" stylename="Semibold">
             <location>
                 <dimension name="weight" xvalue="600.000000" />
             </location>
             <kerning />
             <info />
         </instance>
-		<instance familyname="Blackfont" filename="../Roman/Bold/font.ufo" postscriptfontname="Blackfont-Bold" stylename="Bold">
+		<instance familyname="JuliaLig" filename="../Roman/Bold/font.ufo" postscriptfontname="JuliaLig-Bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="824.000000" />
             </location>
             <kerning />
             <info />
         </instance>
-		<instance familyname="Blackfont" filename="../Roman/Black/font.ufo" postscriptfontname="Blackfont-Black" stylename="Black">
+		<instance familyname="JuliaLig" filename="../Roman/Black/font.ufo" postscriptfontname="JuliaLig-Black" stylename="Black">
             <location>
                 <dimension name="weight" xvalue="1000.000000" />
             </location>

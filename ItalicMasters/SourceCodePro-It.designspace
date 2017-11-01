@@ -29,49 +29,49 @@
 		</source>
 	</sources>
 	<instances>
-		<instance familyname="Blackfont" filename="../Italic/ExtraLightIt/font.ufo" postscriptfontname="Blackfont-ExtraLightIt" stylename="ExtraLightIt">
+		<instance familyname="JuliaLig" filename="../Italic/ExtraLightIt/font.ufo" postscriptfontname="JuliaLig-ExtraLightIt" stylename="ExtraLightIt">
 			<location>
 				<dimension name="weight" xvalue="0.000000"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
-		<instance familyname="Blackfont" filename="../Italic/LightIt/font.ufo" postscriptfontname="Blackfont-LightIt" stylename="LightIt">
+		<instance familyname="JuliaLig" filename="../Italic/LightIt/font.ufo" postscriptfontname="JuliaLig-LightIt" stylename="LightIt">
 			<location>
 				<dimension name="weight" xvalue="100.000000"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
-		<instance familyname="Blackfont" filename="../Italic/It/font.ufo" postscriptfontname="Blackfont-It" stylename="It">
+		<instance familyname="JuliaLig" filename="../Italic/It/font.ufo" postscriptfontname="JuliaLig-It" stylename="It">
 			<location>
 				<dimension name="weight" xvalue="368.000000"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
-		<instance familyname="Blackfont" filename="../Italic/MediumIt/font.ufo" postscriptfontname="Blackfont-MediumIt" stylename="MediumIt">
+		<instance familyname="JuliaLig" filename="../Italic/MediumIt/font.ufo" postscriptfontname="JuliaLig-MediumIt" stylename="MediumIt">
 			<location>
 				<dimension name="weight" xvalue="486.000000"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
-		<instance familyname="Blackfont" filename="../Italic/SemiboldIt/font.ufo" postscriptfontname="Blackfont-SemiboldIt" stylename="SemiboldIt">
+		<instance familyname="JuliaLig" filename="../Italic/SemiboldIt/font.ufo" postscriptfontname="JuliaLig-SemiboldIt" stylename="SemiboldIt">
 			<location>
 				<dimension name="weight" xvalue="600.000000"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
-		<instance familyname="Blackfont" filename="../Italic/BoldIt/font.ufo" postscriptfontname="Blackfont-BoldIt" stylename="BoldIt">
+		<instance familyname="JuliaLig" filename="../Italic/BoldIt/font.ufo" postscriptfontname="JuliaLig-BoldIt" stylename="BoldIt">
 			<location>
 				<dimension name="weight" xvalue="824.000000"/>
 			</location>
 			<kerning/>
 			<info/>
 		</instance>
-		<instance familyname="Blackfont" filename="../Italic/BlackIt/font.ufo" postscriptfontname="Blackfont-BlackIt" stylename="BlackIt">
+		<instance familyname="JuliaLig" filename="../Italic/BlackIt/font.ufo" postscriptfontname="JuliaLig-BlackIt" stylename="BlackIt">
 			<location>
 				<dimension name="weight" xvalue="1000.000000"/>
 			</location>
