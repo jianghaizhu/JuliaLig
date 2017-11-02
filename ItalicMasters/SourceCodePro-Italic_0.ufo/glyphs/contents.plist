@@ -2622,5 +2622,7 @@
     <string>not_equal_equal.glif</string>
     <key>triple_equal</key>
     <string>triple_equal.glif</string>
+    <key>less_colon</key>
+    <string>less_colon.glif</string>
     </dict>
 </plist>

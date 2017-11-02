@@ -82,6 +82,8 @@ feature liga {
     sub backslash parenleft by double_left_parens;                   # \(
     sub backslash parenright by double_right_parens;                 # \)
 
+    sub less colon by less_colon;                                    # <:
+
     # new 2 char ligatures above this comment line
 
 

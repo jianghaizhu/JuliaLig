@@ -1627,6 +1627,7 @@
         <string>double_right_parens</string>
         <string>bottom</string>
         <string>not_equal_equal</string>
-        <string>triple_equal</string></array>
+        <string>triple_equal</string>
+        <string>less_colon</string></array>
         </dict>
 </plist>
