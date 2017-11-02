@@ -58,8 +58,7 @@ Then you need to create four glyphs for the ligature character: two for *italic*
  JuliaLig/ItalicMasters/SourceCodePro-Italic_0.ufo/
  JuliaLig/ItalicMasters/SourceCodePro-Italic_2.ufo/
  ```
-The font for *italic* is `JualiaLig/target/JuliaLig-Italic.otf`.
-The number-2 fonts are the thicker ones.  I have no idea why the `_1` files don't need it.
+The font for *italic* is `JualiaLig/target/JuliaLig-It.otf`. The number-2 fonts are the thicker ones. You can use `JuliaLig/target/JuliaLig-Bold.otf` and `JuliaLig/target/JuliaLig-BoldIt.otf`.  I have no idea why the `_1` files don't need it.
 
 ---------------------
 
