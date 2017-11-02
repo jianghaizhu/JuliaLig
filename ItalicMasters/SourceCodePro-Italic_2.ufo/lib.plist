@@ -897,7 +897,6 @@
 		<string>less</string>
 		<string>greater</string>
 		<string>lessequal</string>
-		<string>greaterequal</string>
 		<string>plusminus</string>
 		<string>asciicircum</string>
 		<string>notequal</string>
@@ -1345,6 +1344,7 @@
         <string>bottom</string>
         <string>not_equal_equal</string>
         <string>triple_equal</string>
-        <string>less_colon</string></array>
+        <string>less_colon</string>
+        <string>greaterequal</string></array>
         </dict>
 </plist>
