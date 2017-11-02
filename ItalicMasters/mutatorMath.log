@@ -1,7 +1,7 @@
-2017-11-02 12:52:58,439 MutatorMath Executing designspace document: SourceCodePro-It.designspace.temp
-2017-11-02 12:52:58,474 MutatorMath Writing font.ufo to ../Italic/ExtraLightIt/font.ufo
-2017-11-02 12:53:01,733 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:02,363 MutatorMath ../Italic/ExtraLightIt/font.ufo:
+2017-11-02 13:25:01,252 MutatorMath Executing designspace document: SourceCodePro-It.designspace.temp
+2017-11-02 13:25:01,286 MutatorMath Writing font.ufo to ../Italic/ExtraLightIt/font.ufo
+2017-11-02 13:25:04,517 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:05,151 MutatorMath ../Italic/ExtraLightIt/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -294,9 +294,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:02,463 MutatorMath Writing font.ufo to ../Italic/LightIt/font.ufo
-2017-11-02 12:53:04,246 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:04,873 MutatorMath ../Italic/LightIt/font.ufo:
+2017-11-02 13:25:05,259 MutatorMath Writing font.ufo to ../Italic/LightIt/font.ufo
+2017-11-02 13:25:07,040 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:07,667 MutatorMath ../Italic/LightIt/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -589,9 +589,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:04,975 MutatorMath Writing font.ufo to ../Italic/It/font.ufo
-2017-11-02 12:53:06,770 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:07,404 MutatorMath ../Italic/It/font.ufo:
+2017-11-02 13:25:07,769 MutatorMath Writing font.ufo to ../Italic/It/font.ufo
+2017-11-02 13:25:09,551 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:10,211 MutatorMath ../Italic/It/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -884,9 +884,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:07,506 MutatorMath Writing font.ufo to ../Italic/MediumIt/font.ufo
-2017-11-02 12:53:09,323 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:09,957 MutatorMath ../Italic/MediumIt/font.ufo:
+2017-11-02 13:25:10,316 MutatorMath Writing font.ufo to ../Italic/MediumIt/font.ufo
+2017-11-02 13:25:12,082 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:12,714 MutatorMath ../Italic/MediumIt/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -1179,9 +1179,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:10,068 MutatorMath Writing font.ufo to ../Italic/SemiboldIt/font.ufo
-2017-11-02 12:53:11,990 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:12,619 MutatorMath ../Italic/SemiboldIt/font.ufo:
+2017-11-02 13:25:12,819 MutatorMath Writing font.ufo to ../Italic/SemiboldIt/font.ufo
+2017-11-02 13:25:14,719 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:15,355 MutatorMath ../Italic/SemiboldIt/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -1474,9 +1474,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:12,720 MutatorMath Writing font.ufo to ../Italic/BoldIt/font.ufo
-2017-11-02 12:53:14,523 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:15,155 MutatorMath ../Italic/BoldIt/font.ufo:
+2017-11-02 13:25:15,466 MutatorMath Writing font.ufo to ../Italic/BoldIt/font.ufo
+2017-11-02 13:25:17,279 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:17,907 MutatorMath ../Italic/BoldIt/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -1769,9 +1769,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:15,258 MutatorMath Writing font.ufo to ../Italic/BlackIt/font.ufo
-2017-11-02 12:53:17,063 MutatorMath Validating kerning font.ufo
-2017-11-02 12:53:17,686 MutatorMath ../Italic/BlackIt/font.ufo:
+2017-11-02 13:25:18,008 MutatorMath Writing font.ufo to ../Italic/BlackIt/font.ufo
+2017-11-02 13:25:19,810 MutatorMath Validating kerning font.ufo
+2017-11-02 13:25:20,442 MutatorMath ../Italic/BlackIt/font.ufo:
 Missing unicodes for 291 glyphs: 
 .notdef
 Eng.a
@@ -2064,4 +2064,4 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:53:17,799 MutatorMath Done
+2017-11-02 13:25:20,543 MutatorMath Done

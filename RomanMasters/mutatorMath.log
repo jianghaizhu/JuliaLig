@@ -1,7 +1,7 @@
-2017-11-02 12:52:06,048 MutatorMath Executing designspace document: SourceCodePro.designspace.temp
-2017-11-02 12:52:06,106 MutatorMath Writing font.ufo to ../Roman/ExtraLight/font.ufo
-2017-11-02 12:52:10,253 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:11,067 MutatorMath ../Roman/ExtraLight/font.ufo:
+2017-11-02 13:24:08,385 MutatorMath Executing designspace document: SourceCodePro.designspace.temp
+2017-11-02 13:24:08,434 MutatorMath Writing font.ufo to ../Roman/ExtraLight/font.ufo
+2017-11-02 13:24:12,540 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:13,344 MutatorMath ../Roman/ExtraLight/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -328,9 +328,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:11,190 MutatorMath Writing font.ufo to ../Roman/Light/font.ufo
-2017-11-02 12:52:13,385 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:14,194 MutatorMath ../Roman/Light/font.ufo:
+2017-11-02 13:24:13,479 MutatorMath Writing font.ufo to ../Roman/Light/font.ufo
+2017-11-02 13:24:15,738 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:16,537 MutatorMath ../Roman/Light/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -657,9 +657,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:14,320 MutatorMath Writing font.ufo to ../Roman/Regular/font.ufo
-2017-11-02 12:52:16,635 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:17,439 MutatorMath ../Roman/Regular/font.ufo:
+2017-11-02 13:24:16,675 MutatorMath Writing font.ufo to ../Roman/Regular/font.ufo
+2017-11-02 13:24:19,099 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:19,911 MutatorMath ../Roman/Regular/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -986,9 +986,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:17,567 MutatorMath Writing font.ufo to ../Roman/Medium/font.ufo
-2017-11-02 12:52:19,778 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:20,589 MutatorMath ../Roman/Medium/font.ufo:
+2017-11-02 13:24:20,038 MutatorMath Writing font.ufo to ../Roman/Medium/font.ufo
+2017-11-02 13:24:22,339 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:23,147 MutatorMath ../Roman/Medium/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -1315,9 +1315,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:20,717 MutatorMath Writing font.ufo to ../Roman/Semibold/font.ufo
-2017-11-02 12:52:22,935 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:23,746 MutatorMath ../Roman/Semibold/font.ufo:
+2017-11-02 13:24:23,278 MutatorMath Writing font.ufo to ../Roman/Semibold/font.ufo
+2017-11-02 13:24:25,540 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:26,355 MutatorMath ../Roman/Semibold/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -1644,9 +1644,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:23,875 MutatorMath Writing font.ufo to ../Roman/Bold/font.ufo
-2017-11-02 12:52:26,072 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:26,877 MutatorMath ../Roman/Bold/font.ufo:
+2017-11-02 13:24:26,490 MutatorMath Writing font.ufo to ../Roman/Bold/font.ufo
+2017-11-02 13:24:28,765 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:29,572 MutatorMath ../Roman/Bold/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -1973,9 +1973,9 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:27,003 MutatorMath Writing font.ufo to ../Roman/Black/font.ufo
-2017-11-02 12:52:29,313 MutatorMath Validating kerning font.ufo
-2017-11-02 12:52:30,126 MutatorMath ../Roman/Black/font.ufo:
+2017-11-02 13:24:29,698 MutatorMath Writing font.ufo to ../Roman/Black/font.ufo
+2017-11-02 13:24:32,109 MutatorMath Validating kerning font.ufo
+2017-11-02 13:24:32,931 MutatorMath ../Roman/Black/font.ufo:
 Missing unicodes for 325 glyphs: 
 .notdef
 Eng.a
@@ -2302,4 +2302,4 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-02 12:52:30,253 MutatorMath Done
+2017-11-02 13:24:33,064 MutatorMath Done
