@@ -1,11 +1,11 @@
-# How to add a new ligature, by example
+# How to add a new ligature
 
 Here is how we added the double-slash ligature.
 
 First you need to build the font on your machine.
 
 How to rebuild the font
-===============================
+==============================
 
 You need to have Python 2.7+, with the [fonttools](https://github.com/fonttools/fonttools) module installed, as well as [Adobe Font Development Kit](https://github.com/adobe-type-tools/afdko) for OpenType.
 
@@ -39,6 +39,8 @@ source /tmp/temp-python2/bin/activate
 ./build.sh
 deactivate
 ```
+An example for ligature
+==============================
 
 Then you need to create four glyphs for the ligature character: two for *italic* and two for *roman*; in each case one glyph will be thicker than the other. Here was my process:
  1. Open the font `JuliaLig/target/JuliaLig-Regular.otf` in [FontForge](https://fontforge.github.io/en-US/).
