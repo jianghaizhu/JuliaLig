@@ -1345,6 +1345,7 @@
         <string>not_equal_equal</string>
         <string>triple_equal</string>
         <string>less_colon</string>
-        <string>greaterequal</string></array>
+        <string>greaterequal</string>
+        <string>colon_greater</string></array>
         </dict>
 </plist>
