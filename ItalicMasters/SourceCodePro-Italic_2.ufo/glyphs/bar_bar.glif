@@ -1,19 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar_bar" format="1">
   <advance width="1200"/>
+  <unicode hex="E104"/>
   <outline>
-    <component base="bar" xOffset="550"/>
-    <component base="bar" xOffset="50"/>
+    <contour>
+      <point x="750" y="-250" type="line"/>
+      <point x="750" y="750" type="line"/>
+      <point x="880" y="750" type="line"/>
+      <point x="880" y="-250" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="-250" type="line"/>
+      <point x="320" y="750" type="line"/>
+      <point x="450" y="750" type="line"/>
+      <point x="450" y="-250" type="line"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.6</real>
-    <real>0.986</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-250</integer>
+            <key>width</key>
+            <integer>1000</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>215</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>715</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
   </lib>
 </glyph>
