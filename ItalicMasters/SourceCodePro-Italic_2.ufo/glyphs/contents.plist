@@ -2626,5 +2626,7 @@
     <string>greaterequal.glif</string>
     <key>colon_greater</key>
     <string>colon_greater.glif</string>
+    <key>greater_colon</key>
+    <string>greater_colon.glif</string>
     </dict>
 </plist>

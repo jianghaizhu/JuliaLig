@@ -84,6 +84,7 @@ feature liga {
 
     sub less colon by less_colon;                                    # <:
     sub colon greater by colon_greater;                              # :>
+    sub greater colon by greater_colon;                              # >:
 
     # new 2 char ligatures above this comment line
 

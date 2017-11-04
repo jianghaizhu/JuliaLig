@@ -1615,6 +1615,7 @@
         <string>triple_equal</string>
         <string>less_colon</string>
         <string>greaterequal</string>
-        <string>colon_greater</string></array>
+        <string>colon_greater</string>
+        <string>greater_colon</string></array>
         </dict>
 </plist>
