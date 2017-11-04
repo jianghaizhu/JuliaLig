@@ -1347,6 +1347,7 @@
         <string>less_colon</string>
         <string>greaterequal</string>
         <string>colon_greater</string>
-        <string>greater_colon</string></array>
+        <string>greater_colon</string>
+        <string>hyphen_hyphen_greater</string></array>
         </dict>
 </plist>

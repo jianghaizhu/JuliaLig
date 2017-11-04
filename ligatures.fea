@@ -32,6 +32,7 @@ feature liga {
     sub less plus greater by less_plus_greater;                  # <+>
 
     sub period period period by period_period_period;            # ...
+    sub hyphen hyphen greater by hyphen_hyphen_greater;          # -->
 
     # new 2 char ligatures above this comment line
 
