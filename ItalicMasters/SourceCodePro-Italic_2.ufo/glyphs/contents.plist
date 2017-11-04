@@ -2630,5 +2630,7 @@
     <string>greater_colon.glif</string>
     <key>hyphen_hyphen_greater</key>
     <string>hyphen_hyphen_greater.glif</string>
+    <key>colon_equal</key>
+    <string>colon_equal.glif</string>
     </dict>
 </plist>
