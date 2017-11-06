@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash_slash" format="1">
-  <advance width="600"/>
+  <advance width="1200"/>
   <outline>
     <contour>
-      <point x="250" y="-160" type="line"/>
-      <point x="514" y="710" type="line"/>
-      <point x="588" y="710" type="line"/>
-      <point x="324" y="-160" type="line"/>
+      <point x="532" y="-160" type="line"/>
+      <point x="858" y="710" type="line"/>
+      <point x="950" y="710" type="line"/>
+      <point x="624" y="-160" type="line"/>
     </contour>
     <contour>
-      <point x="12" y="-160" type="line"/>
-      <point x="276" y="710" type="line"/>
-      <point x="350" y="710" type="line"/>
-      <point x="86" y="-160" type="line"/>
+      <point x="250" y="-160" type="line"/>
+      <point x="576" y="710" type="line"/>
+      <point x="668" y="710" type="line"/>
+      <point x="342" y="-160" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,9 +32,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>99</integer>
+            <integer>147</integer>
             <key>width</key>
-            <integer>402</integer>
+            <integer>576</integer>
           </dict>
         </array>
       </dict>
