@@ -2632,5 +2632,7 @@
     <string>hyphen_hyphen_greater.glif</string>
     <key>colon_equal</key>
     <string>colon_equal.glif</string>
+    <key>i_m</key>
+    <string>i_m.glif</string>
     </dict>
 </plist>

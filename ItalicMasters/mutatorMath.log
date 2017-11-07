@@ -1,8 +1,8 @@
-2017-11-05 20:18:58,126 MutatorMath Executing designspace document: SourceCodePro-It.designspace.temp
-2017-11-05 20:18:58,180 MutatorMath Writing font.ufo to ../Italic/ExtraLightIt/font.ufo
-2017-11-05 20:19:03,593 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:05,072 MutatorMath ../Italic/ExtraLightIt/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:11,652 MutatorMath Executing designspace document: SourceCodePro-It.designspace.temp
+2017-11-06 23:43:11,717 MutatorMath Writing font.ufo to ../Italic/ExtraLightIt/font.ufo
+2017-11-06 23:43:16,878 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:18,083 MutatorMath ../Italic/ExtraLightIt/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -169,6 +169,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -297,10 +298,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:05,231 MutatorMath Writing font.ufo to ../Italic/LightIt/font.ufo
-2017-11-05 20:19:07,094 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:08,572 MutatorMath ../Italic/LightIt/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:18,230 MutatorMath Writing font.ufo to ../Italic/LightIt/font.ufo
+2017-11-06 23:43:20,319 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:21,539 MutatorMath ../Italic/LightIt/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -467,6 +468,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -595,10 +597,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:08,700 MutatorMath Writing font.ufo to ../Italic/It/font.ufo
-2017-11-05 20:19:10,564 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:12,048 MutatorMath ../Italic/It/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:21,688 MutatorMath Writing font.ufo to ../Italic/It/font.ufo
+2017-11-06 23:43:23,794 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:25,015 MutatorMath ../Italic/It/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -765,6 +767,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -893,10 +896,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:12,173 MutatorMath Writing font.ufo to ../Italic/MediumIt/font.ufo
-2017-11-05 20:19:14,026 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:15,499 MutatorMath ../Italic/MediumIt/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:25,180 MutatorMath Writing font.ufo to ../Italic/MediumIt/font.ufo
+2017-11-06 23:43:27,224 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:28,456 MutatorMath ../Italic/MediumIt/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1063,6 +1066,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -1191,10 +1195,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:15,609 MutatorMath Writing font.ufo to ../Italic/SemiboldIt/font.ufo
-2017-11-05 20:19:17,553 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:19,024 MutatorMath ../Italic/SemiboldIt/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:28,606 MutatorMath Writing font.ufo to ../Italic/SemiboldIt/font.ufo
+2017-11-06 23:43:30,734 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:31,946 MutatorMath ../Italic/SemiboldIt/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1361,6 +1365,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -1489,10 +1494,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:19,134 MutatorMath Writing font.ufo to ../Italic/BoldIt/font.ufo
-2017-11-05 20:19:21,014 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:22,488 MutatorMath ../Italic/BoldIt/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:32,097 MutatorMath Writing font.ufo to ../Italic/BoldIt/font.ufo
+2017-11-06 23:43:34,270 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:35,467 MutatorMath ../Italic/BoldIt/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1659,6 +1664,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -1787,10 +1793,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:22,593 MutatorMath Writing font.ufo to ../Italic/BlackIt/font.ufo
-2017-11-05 20:19:24,472 MutatorMath Validating kerning font.ufo
-2017-11-05 20:19:25,959 MutatorMath ../Italic/BlackIt/font.ufo:
-Missing unicodes for 294 glyphs: 
+2017-11-06 23:43:35,614 MutatorMath Writing font.ufo to ../Italic/BlackIt/font.ufo
+2017-11-06 23:43:37,659 MutatorMath Validating kerning font.ufo
+2017-11-06 23:43:38,849 MutatorMath ../Italic/BlackIt/font.ufo:
+Missing unicodes for 295 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1957,6 +1963,7 @@ hyphen_less
 hyphen_less_less
 hyphentwo.a
 i.sups
+i_m
 ijacute
 iogonek.d
 istroke.d
@@ -2085,4 +2092,4 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:19:26,070 MutatorMath Done
+2017-11-06 23:43:38,995 MutatorMath Done

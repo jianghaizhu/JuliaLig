@@ -87,6 +87,12 @@ feature liga {
     sub colon greater by colon_greater;                              # :>
     sub greater colon by greater_colon;                              # >:
 
+    @figures = [zero one two three four five six seven eight nine];
+    sub @figures i' m' by i_m;                                                  # im
+
+
+
+
     # new 2 char ligatures above this comment line
 
 

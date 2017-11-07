@@ -1,8 +1,8 @@
-2017-11-05 20:17:32,572 MutatorMath Executing designspace document: SourceCodePro.designspace.temp
-2017-11-05 20:17:32,632 MutatorMath Writing font.ufo to ../Roman/ExtraLight/font.ufo
-2017-11-05 20:17:38,780 MutatorMath Validating kerning font.ufo
-2017-11-05 20:17:40,467 MutatorMath ../Roman/ExtraLight/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:41:53,254 MutatorMath Executing designspace document: SourceCodePro.designspace.temp
+2017-11-06 23:41:53,336 MutatorMath Writing font.ufo to ../Roman/ExtraLight/font.ufo
+2017-11-06 23:41:59,991 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:01,820 MutatorMath ../Roman/ExtraLight/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -180,6 +180,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -331,10 +332,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:17:40,698 MutatorMath Writing font.ufo to ../Roman/Light/font.ufo
-2017-11-05 20:17:43,082 MutatorMath Validating kerning font.ufo
-2017-11-05 20:17:44,894 MutatorMath ../Roman/Light/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:42:01,949 MutatorMath Writing font.ufo to ../Roman/Light/font.ufo
+2017-11-06 23:42:04,402 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:06,277 MutatorMath ../Roman/Light/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -512,6 +513,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -663,10 +665,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:17:45,028 MutatorMath Writing font.ufo to ../Roman/Regular/font.ufo
-2017-11-05 20:17:47,489 MutatorMath Validating kerning font.ufo
-2017-11-05 20:17:49,328 MutatorMath ../Roman/Regular/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:42:06,406 MutatorMath Writing font.ufo to ../Roman/Regular/font.ufo
+2017-11-06 23:42:08,851 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:10,777 MutatorMath ../Roman/Regular/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -844,6 +846,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -995,10 +998,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:17:49,475 MutatorMath Writing font.ufo to ../Roman/Medium/font.ufo
-2017-11-05 20:17:51,881 MutatorMath Validating kerning font.ufo
-2017-11-05 20:17:53,676 MutatorMath ../Roman/Medium/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:42:10,993 MutatorMath Writing font.ufo to ../Roman/Medium/font.ufo
+2017-11-06 23:42:13,662 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:15,495 MutatorMath ../Roman/Medium/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1176,6 +1179,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -1327,10 +1331,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:17:53,805 MutatorMath Writing font.ufo to ../Roman/Semibold/font.ufo
-2017-11-05 20:17:56,183 MutatorMath Validating kerning font.ufo
-2017-11-05 20:17:57,973 MutatorMath ../Roman/Semibold/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:42:15,631 MutatorMath Writing font.ufo to ../Roman/Semibold/font.ufo
+2017-11-06 23:42:18,091 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:20,009 MutatorMath ../Roman/Semibold/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1508,6 +1512,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -1659,10 +1664,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:17:58,108 MutatorMath Writing font.ufo to ../Roman/Bold/font.ufo
-2017-11-05 20:18:00,507 MutatorMath Validating kerning font.ufo
-2017-11-05 20:18:02,326 MutatorMath ../Roman/Bold/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:42:20,165 MutatorMath Writing font.ufo to ../Roman/Bold/font.ufo
+2017-11-06 23:42:22,747 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:24,560 MutatorMath ../Roman/Bold/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -1840,6 +1845,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -1991,10 +1997,10 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:18:02,453 MutatorMath Writing font.ufo to ../Roman/Black/font.ufo
-2017-11-05 20:18:04,964 MutatorMath Validating kerning font.ufo
-2017-11-05 20:18:06,835 MutatorMath ../Roman/Black/font.ufo:
-Missing unicodes for 328 glyphs: 
+2017-11-06 23:42:24,687 MutatorMath Writing font.ufo to ../Roman/Black/font.ufo
+2017-11-06 23:42:27,108 MutatorMath Validating kerning font.ufo
+2017-11-06 23:42:28,938 MutatorMath ../Roman/Black/font.ufo:
+Missing unicodes for 329 glyphs: 
 .notdef
 Eng.a
 Gtilde
@@ -2172,6 +2178,7 @@ hyphentwo.a
 i.a
 i.supa
 i.sups
+i_m
 iacute.a
 ibreve.a
 icaron.a
@@ -2323,4 +2330,4 @@ zero.numr
 zero.onum
 zero.subs
 zero.sups
-2017-11-05 20:18:06,966 MutatorMath Done
+2017-11-06 23:42:29,072 MutatorMath Done
