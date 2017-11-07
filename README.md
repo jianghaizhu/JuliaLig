@@ -4,10 +4,10 @@ in turn is a fork of the [Source Code Pro](https://github.com/adobe-fonts/source
 
 I don't like some of the existing ligatures, e.g. `≤`, `≥`, which are more like unicodes
 than ligatures. I also want to add some of the ligatures specifically for Julia programming
-language, e.g. `<:`.
+language, e.g. `<:`, `>:`.
 
-The available ligatures, compared with their Source Code Pro counterparts, are:
+All operators in Julia, some with ligatures, are:
 
-![](JuliaLig_comparison.png)
+![](JuliaLig.png)
 
 See [HowToAddALigature.md](HowToAddALigature.md) for instructions on how to add more.
