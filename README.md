@@ -11,3 +11,10 @@ All operators in Julia, some with ligatures, are:
 ![](JuliaLig.png)
 
 See [HowToAddALigature.md](HowToAddALigature.md) for instructions on how to add more.
+
+If you want to turn off ligatures for the current line in **Atom** editor so that editing is easier,
+add the following to your *styles.less* file.
+
+`atom-text-editor .cursor-line {
+  -webkit-font-feature-settings: "liga" off, "calt" off, "clig" off;
+}`
